@@ -19,6 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: 首页
+    output: web, pdf
+    url: /index.html
+    type: homepage
+
   - title: 原创文章
     output: web, pdf
     folderitems:
@@ -26,7 +31,6 @@ entries:
     - title: 致知随笔
       url: /mydoc_introduction.html
       output: web, pdf
-
 
   - title: 转载文章
     output: web, pdf
