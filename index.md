@@ -1,7 +1,6 @@
 ---
 title: "Inspiration Blogs"
 keywords: Index
-tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: 记录.
