@@ -19,30 +19,21 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: 首页
-    output: web, pdf
-    url: /index.html
-    type: homepage
-
-  - title: 原创文章
+  - title: Table of Contents
     output: web, pdf
     folderitems:
+      - title: 首页
+        url: /index.html
+        output: web, pdf
+        type: homepage
 
-    - title: 致知随笔
-      url: /mydoc_introduction.html
-      output: web, pdf
+      - title: 致知随笔[原创]
+        url: /mydoc_introduction.html
+        output: web, pdf
 
-  - title: 转载文章
-    output: web, pdf
-    folderitems:
-
-    - title: 记忆承载
-      url: /mydoc_release_notes_60.html
-      output: web, pdf
-
-  - title: About Me
-    output: web, pdf
-    folderitems:
+      - title: 记忆承载[转载]
+        url: /mydoc_release_notes_60.html
+        output: web, pdf
 
       - title: Feedback
         url: /mydoc_support.html

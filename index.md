@@ -6,7 +6,7 @@ permalink: index.html
 summary: 记录.
 ---
 
-{% include note.html content="link <a alt='原创文章' href='http://idratherbewriting.com'>原创文章</a>." %}
+{% include note.html content="<a alt='原创文章' href='http://idratherbewriting.com'>**原创文章**</a>." %}
 
 ## Build the Theme
 
