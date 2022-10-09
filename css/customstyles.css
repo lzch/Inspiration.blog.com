@@ -580,11 +580,12 @@ a[data-toggle] {
     margin:20px 0px 20px 0px;
     border-left: 5px solid #ED1951;
     padding-left: 10px;
+    font-weight: bold;
 
 }
 
 .summary:before {
-    content: "Summary: ";
+    content: " ";
     font-weight: bold;
 }
 
