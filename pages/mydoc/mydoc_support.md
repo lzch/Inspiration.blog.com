@@ -1,8 +1,6 @@
 ---
 title: Support
-tags: [getting_started, troubleshooting]
 keywords: questions, troubleshooting, contact, support
-last_updated: July 3, 2016
 summary: "Contact me for any support issues."
 sidebar: mydoc_sidebar
 permalink: mydoc_support.html
@@ -10,4 +8,17 @@ folder: mydoc
 topnav: topnav
 ---
 
-I'm not actively working on this theme. However, feel free to click **Feedback** on the top navbar to send me an email or open an issue on [GitHub](https://github.com/tomjoht/documentation-theme-jekyll/issues).
+Feedback。
+<li>
+{% if site.feedback_text %}
+  {% assign feedback_text = site.feedback_text %}
+{% else %}
+  {% assign feedback_text = "Feedback" %}
+{% endif %}
+
+{% if site.feedback_link %}
+  <a class="email" title="Submit feedback" href="{{site.feedback_link}}">{{feedback_text}}</a>
+{% else %}
+  <a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:{{site.feedback_email}}?subject={{site.feedback_subject_line}} feedback&body=I have some feedback about the {{page.title}} page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> {{feedback_text}}</a>
+{% endif %}
+</li>
