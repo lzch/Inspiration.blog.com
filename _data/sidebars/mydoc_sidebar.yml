@@ -23,15 +23,9 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 原创目录
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
-    - title: Introduction
+    - title: 致知随笔
       url: /mydoc_introduction.html
       output: web, pdf
-
 
 
   - title: 转载文章
@@ -42,11 +36,11 @@ entries:
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-  - title: Feedback
+  - title: About Me
     output: web, pdf
     folderitems:
 
-      - title: Support
+      - title: Feedback
         url: /mydoc_support.html
         output: web, pdf
 

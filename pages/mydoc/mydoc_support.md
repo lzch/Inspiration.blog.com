@@ -8,7 +8,6 @@ folder: mydoc
 topnav: topnav
 ---
 
-Feedback。
 <li>
 {% if site.feedback_text %}
   {% assign feedback_text = site.feedback_text %}
