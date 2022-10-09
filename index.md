@@ -6,20 +6,18 @@ permalink: index.html
 summary: 记录.
 ---
 
+{% include note.html content="<a alt='原创文章' href='http://idratherbewriting.com'>**原创文章**</a>." %}
 
+## Build the Theme
 
-## 致知随笔[原创]
+Follow these instructions to build the theme.
 
-{% mydoc mydoc_introduction.html %}
+### 1. 个人感悟
 
+First
 
-## 记忆承载[转载]
+## Other instructions
 
-{% mydoc mydoc_release_notes_60.html %}
-
-
-## Feedback
-
-{% mydoc mydoc_support.html %}
+The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar.
 
 {% include links.html %}
