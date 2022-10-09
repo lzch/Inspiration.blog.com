@@ -28,11 +28,11 @@ entries:
         type: homepage
 
       - title: 致知随笔[原创]
-        url: /mydoc_introduction.html
+        url: /zzsb_index.html
         output: web, pdf
 
       - title: 记忆承载[转载]
-        url: /mydoc_release_notes_60.html
+        url: /zzsb_index.html
         output: web, pdf
 
       - title: Feedback
