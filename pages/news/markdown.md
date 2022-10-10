@@ -20,6 +20,17 @@ Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地
 ## 段落
 要创建段落，请使用空白行将一行或多行文本进行分隔。
 
+<img class="inline" src="images/markdown_01.png"/>
+
 > 不要用空格（spaces）或制表符（ tabs）缩进段落。
+
+## 换行
+在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行(<br>)。
+
+<img class="inline" src="images/markdown_02.png"/>
+
+
+
+
 
 {% include links.html %}
