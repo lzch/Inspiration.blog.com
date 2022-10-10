@@ -51,5 +51,8 @@ entries:
       - title: Feedback
         url: /mydoc_support.html
         output: web, pdf
+      - title: Markdown
+        url: /markdown.html
+        output: web, pdf
 
 # Copyright 2021 Google LLC
