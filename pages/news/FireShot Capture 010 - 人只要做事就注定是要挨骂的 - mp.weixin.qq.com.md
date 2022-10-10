@@ -1,5 +1,5 @@
 ---
-title: FireShot Capture 010 - 人只要做事就注定是要挨骂的 - mp.weixin.qq.com
+title:
 sidebar: mydoc_sidebar
 permalink: FireShot Capture 010 - 人只要做事就注定是要挨骂的 - mp.weixin.qq.com.html
 folder: news

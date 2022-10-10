@@ -1,5 +1,5 @@
 ---
-title: FireShot Capture 003 - 问世间情为何物 - mp.weixin.qq.com
+title:
 sidebar: mydoc_sidebar
 permalink: FireShot Capture 003 - 问世间情为何物 - mp.weixin.qq.com.html
 folder: news

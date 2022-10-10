@@ -1,5 +1,5 @@
 ---
-title: FireShot Capture 006 - 哪怕放个屁，也好呀 - mp.weixin.qq.com
+title:
 sidebar: mydoc_sidebar
 permalink: FireShot Capture 006 - 哪怕放个屁，也好呀 - mp.weixin.qq.com.html
 folder: news

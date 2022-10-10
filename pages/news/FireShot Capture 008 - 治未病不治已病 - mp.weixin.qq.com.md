@@ -1,5 +1,5 @@
 ---
-title: FireShot Capture 008 - 治未病不治已病 - mp.weixin.qq.com
+title:
 sidebar: mydoc_sidebar
 permalink: FireShot Capture 008 - 治未病不治已病 - mp.weixin.qq.com.html
 folder: news
