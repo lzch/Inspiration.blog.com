@@ -8,6 +8,11 @@ permalink: zzsb_index.html
 folder: news
 ---
 
-⭐ [认知的差距](zzsb_202003122154.html)       `new Date().toString()`
+⭐ [认知的差距](zzsb_202003122154.html)
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 {% include links.html %}
