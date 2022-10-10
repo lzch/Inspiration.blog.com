@@ -19,9 +19,13 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Table of Contents
-      url: /index.html
-      output: web, pdf
+  - title: 首页
+    output: web, pdf
+    folderitems:
+      - title: 开篇寄语
+        url: /index.html
+        output: web, pdf
+        type: homepage
 
   - title: 致知随笔 [原创]
     output: web, pdf
