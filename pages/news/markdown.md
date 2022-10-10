@@ -128,8 +128,8 @@ Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地
 
 <br>
 ## 链接
-- 超链接Markdown语法代码：[超链接显示名](超链接地址 "超链接title")
-- 使用尖括号可以很方便地把URL或者email地址变成可点击的链接。
+
+<img class="inline" src="images/markdown_16.png"/>
 
 
 <br>
@@ -167,15 +167,9 @@ Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地
 <br>
 ## 图片
 
-- 要添加图像，请使用感叹号 (!), 然后在方括号增加替代文本，图片链接放在圆括号里，括号里的链接后可以增加一个可选的图片标题文本。
+要添加图像，请使用感叹号 (!), 然后在方括号增加替代文本，图片链接放在圆括号里，括号里的链接后可以增加一个可选的图片标题文本。
 
-- 插入图片Markdown语法代码：![图片alt](图片链接 "图片title")。
-
-- 对应的HTML代码：<img src="图片链接" alt="图片alt" title="图片title">
-
-- 给图片增加链接，请将图像的Markdown 括在方括号中，然后将链接添加在圆括号中。
-
-[![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
+<img class="inline" src="images/markdown_17.png"/>
 
 
 <br>
