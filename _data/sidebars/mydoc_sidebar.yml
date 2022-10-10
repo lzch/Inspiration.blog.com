@@ -30,6 +30,10 @@ entries:
       - title: 致知随笔 [原创]
         url: /zzsb_index.html
         output: web, pdf
+        folderitems:
+          - title:认知的差距
+            url: /zzsb_202003122154.html
+            output: web, pdf
 
       - title: 记忆承载 [转载]
         url: /jycz_index.html
