@@ -9,7 +9,7 @@ permalink: jycz_电影《芳华》里隐藏着的惊天秘密.html
 folder: news
 ---
 
-<img class="inline" src="images/FireShot Capture 001 - 电影《芳华》里隐藏着的惊天秘密 - mp.weixin.qq.com.png"/>
+<img src="images/FireShot Capture 001 - 电影《芳华》里隐藏着的惊天秘密 - mp.weixin.qq.com.png" style="width: 750px;"/>
 
 
 
