@@ -20,9 +20,8 @@ entries:
       type: frontmatter
 
   - title: Table of Contents
-    output: web, pdf
-    url: /index.html
-    type: homepage
+      url: /index.html
+      output: web, pdf
 
   - title: 致知随笔 [原创]
     output: web, pdf
