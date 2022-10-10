@@ -1,17 +1,11 @@
 ---
 title: 
-tags: []
-keywords: 
-last_updated: 
-summary: ""
 sidebar: mydoc_sidebar
 permalink: jycz_xxxx.html
 folder: news
 ---
 
-<img class="inline" src="images/xxx"/>
-
-
+<img src="images/xxx.png"/>
 
 
 {% include links.html %}
