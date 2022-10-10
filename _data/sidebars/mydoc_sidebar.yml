@@ -21,11 +21,8 @@ entries:
 
   - title: Table of Contents
     output: web, pdf
-    folderitems:
-      - title: 首页
-        url: /index.html
-        output: web, pdf
-        type: homepage
+    url: /index.html
+    type: homepage
 
   - title: 致知随笔 [原创]
     output: web, pdf
