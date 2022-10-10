@@ -27,18 +27,27 @@ entries:
         output: web, pdf
         type: homepage
 
-      - title: 致知随笔 [原创]
+  - title: 致知随笔 [原创]
+    output: web, pdf
+    folderitems:
+      - title: 索引
         url: /zzsb_index.html
         output: web, pdf
-        folderitems:
-          - title:认知的差距
-            url: /zzsb_202003122154.html
-            output: web, pdf
 
-      - title: 记忆承载 [转载]
+      - title: 认知的差距
+        url: /zzsb_202003122154.html
+        output: web, pdf
+
+  - title: 记忆承载 [转载]
+    output: web, pdf
+    folderitems:
+      - title: 索引
         url: /jycz_index.html
         output: web, pdf
 
+  - title: About Me
+    output: web, pdf
+    folderitems:
       - title: Feedback
         url: /mydoc_support.html
         output: web, pdf
