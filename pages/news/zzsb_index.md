@@ -8,6 +8,6 @@ permalink: zzsb_index.html
 folder: news
 ---
 
-[认知的差距](zzsb_202003122154.html)
+⭐ [认知的差距](zzsb_202003122154.html)
 
 {% include links.html %}
